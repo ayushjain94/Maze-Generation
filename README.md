@@ -1,7 +1,7 @@
 # Maze-Generation (Procedural Content Generation)
 A random maze generation using procedural content generation techniques for the gaming world
 
-Prefab elements: 
+### Prefab elements: 
 
 To develop the maze, we have divided the canvas into the cells of a specific grid size. In the image below the cell size is 20. In the beginning the cells are shown with all the 4 borders of green color and as the algorithm starts creating the maze, it removes the walls between cells and change the color of the cell to purple. The highlighted cell is the current cell in which the algorithm is exploring to create the maze in the grid. 
 
